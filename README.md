@@ -8,7 +8,6 @@ This repository contains a cohort analysis project, demonstrating how to analyze
 - [Introduction](#introduction)
 - [Features](#features)
 - [Setup and Installation](#setup-and-installation)
-- [Code Overview](#code-overview)
 - [Results](#results)
 
 ---
