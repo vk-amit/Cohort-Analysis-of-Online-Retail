@@ -10,8 +10,6 @@ This repository contains a cohort analysis project, demonstrating how to analyze
 - [Setup and Installation](#setup-and-installation)
 - [Code Overview](#code-overview)
 - [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
 
